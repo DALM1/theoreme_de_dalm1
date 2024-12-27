@@ -93,7 +93,7 @@ L’amplitude \( I \) doit être proportionnelle à l’effet recherché tout en
 ## 6. Discussion
 ### Implications éthiques
 - Une intervention mal alignée ou mal synchronisée peut produire des effets perturbateurs disproportionnés.
-- Les créateurs et innovateurs doivent agir avec une **responsabilité accrue**, en considérant l’impact potentiel de leurs actions sur le flux global.
+- Les créateurs et innovateurs doivent agir avec une **responsabilité accrue**, en considérant l’impact potentiel de leurs actions sur le flux global tout en préservant la dualité de celui-ci.
 
 ### Limites du modèle
 - Les paramètres \( A \), \( T \), et \( I \) restent difficiles à quantifier précisément dans des systèmes réels.
